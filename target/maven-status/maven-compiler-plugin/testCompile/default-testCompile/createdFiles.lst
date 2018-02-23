@@ -1,0 +1,10 @@
+com/csx/hackathon/TestUtils$DateTimeDeserializer.class
+com/csx/hackathon/TestUtils$1.class
+com/csx/hackathon/TestUtils$DynamodbEventMixin.class
+com/csx/hackathon/TestUtils$DateTimeSerializer.class
+com/csx/hackathon/TestUtils.class
+com/csx/hackathon/TestUtils$DynamodbEventMixin$StreamRecordMixin.class
+com/csx/hackathon/TestUtils$DynamodbEventMixin$AttributeValueMixIn.class
+com/csx/hackathon/TestUtils$DynamodbEventMixin$RecordMixin.class
+com/csx/hackathon/TestUtils$TestJacksonMapperModule.class
+com/csx/hackathon/TestUtils$UpperCaseRecordsPropertyNamingStrategy.class
